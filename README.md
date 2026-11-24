@@ -180,6 +180,7 @@ Open protocols that connect agents to tools and editors, plus widely used server
 - **[Model Context Protocol](https://github.com/modelcontextprotocol/modelcontextprotocol)**: Specification for connecting AI applications to tools and data. `Apache-2.0` (moving from `MIT`) · Specification
 - **[MCP reference servers](https://github.com/modelcontextprotocol/servers)**: Reference MCP servers for files, Git, fetch, memory and more. `Apache-2.0` (moving from `MIT`) · TypeScript, Python
 - **[Agent Client Protocol](https://github.com/agentclientprotocol/agent-client-protocol)**: Protocol for connecting any editor to any coding agent. `Apache-2.0` · Rust, TypeScript
+- **[Open Agent API](https://github.com/jiangxingfan1-coder/Open-Agent-API)**: Self-hosted gateway with a stdio MCP server for calling configured coding agents and reading their runs. `Apache-2.0` · TypeScript
 - **[GitHub MCP Server](https://github.com/github/github-mcp-server)**: GitHub's official MCP server for issues, pull requests, code and Actions. `MIT` · Go
 - **[Playwright MCP](https://github.com/microsoft/playwright-mcp)**: MCP server that lets agents drive a browser through Playwright. `Apache-2.0` · TypeScript
 - **[Serena](https://github.com/oraios/serena)**: MCP toolkit that gives agents semantic code search and editing through language servers. `GPL-3.0-or-later` (SolidLSP `MIT`) · Python
